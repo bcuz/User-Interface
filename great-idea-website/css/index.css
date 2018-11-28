@@ -92,13 +92,25 @@ h1 {
 header div {
 	display: inline-block;
 	text-align: center;
+	/* margin-bottom: 200px; */
 }
+
+/* .btn {
+	display: inline-block;
+	margin-bottom: 100px;
+} */
 
 .features,
 .about {
 	width: 49%;
 	display: inline-block;
-	padding: 5px;
+	margin: 20px 0;
+	padding-right: 5px;
+}
+
+.middle-img {
+	width: 100%;
+	margin: 10px 0 20px;
 }
 
 .services,
@@ -106,8 +118,10 @@ header div {
 .vision {
 	width: 32%;
 	display: inline-block;
+	padding-right: 5px;
 }
 
 footer {
-	text-align: center
+	text-align: center;
+	margin-bottom: 50px;
 }
