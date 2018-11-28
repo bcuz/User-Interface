@@ -94,10 +94,18 @@ header div {
 	text-align: center;
 }
 
-section {
+.features,
+.about {
 	width: 49%;
 	display: inline-block;
 	padding: 5px;
+}
+
+.services,
+.product,
+.vision {
+	width: 32%;
+	display: inline-block;
 }
 
 footer {
