@@ -84,3 +84,22 @@ nav a {
 	color: #9e9e9e;
 	text-decoration: none;
 }
+
+h1 {
+	font-size: 66px;
+}
+
+header div {
+	display: inline-block;
+	text-align: center;
+}
+
+section {
+	width: 49%;
+	display: inline-block;
+	padding: 5px;
+}
+
+footer {
+	text-align: center
+}
