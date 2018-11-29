@@ -58,10 +58,7 @@ h1 {
 .jumbo-img {
 	display: inline-block;
 	width: 54%;
-}
-
-.jumbo img {
-	float: right;
+	text-align: right;
 }
 
 .btn {
