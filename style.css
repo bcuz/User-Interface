@@ -50,10 +50,9 @@ h1 {
 }
 
 .jumbo-text {
-	display: inline-block;
 	text-align: center;
 	width: 45%;
-	vertical-align: top;
+	float: left;
 }
 
 .jumbo-img {
