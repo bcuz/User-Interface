@@ -78,6 +78,7 @@ ul li {
 li img {
 	/* display: inline-block; */
 	/* margin-top: 50px; */
+	/* line-height: 10px; */
 }
 
 nav a {
@@ -89,6 +90,11 @@ h1 {
 	font-size: 66px;
 }
 
+header > div {
+	margin-top: 40px;
+
+}
+
 .header-text {
 	display: inline-block;
 	text-align: center;
@@ -98,12 +104,13 @@ h1 {
 
 h1 {
 	margin-top: 100px;
+	/* makes the text a bit off center */
 	padding-right: 5%;
 }
 
-/* .header-img {
+.head-img {
 	display: inline-block;
-} */
+}
 
 .btn {
 	display: inline-block;
