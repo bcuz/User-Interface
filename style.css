@@ -75,10 +75,9 @@ h1 {
 
 .features,
 .about {
-	width: 49%;
+	width: 48.66%;
 	display: inline-block;
-	margin: 20px 0;
-	padding-right: 5px;
+	margin: 20px 1.33% 20px 0;
 }
 
 .middle-img {
@@ -89,10 +88,9 @@ h1 {
 .services,
 .product,
 .vision {
-	width: 32%;
+	width: 32.33%;
 	display: inline-block;
-	padding-right: 5px;
-	margin-bottom: 30px;
+	margin: 0 1% 30px 0;
 }
 
 .contact {
