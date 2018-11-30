@@ -79,6 +79,11 @@ h1 {
 	padding: 10px 40px;
 	text-decoration: none;
 	color: #000;
+	transition: transform .7s;
+}
+
+.btn:hover {
+	transform: scale(1.1);
 }
 
 .features,
