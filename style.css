@@ -38,6 +38,7 @@ ul li {
 	margin-right: 70px; 
 }
 
+
 nav img {
 	vertical-align: middle;
 }
@@ -45,6 +46,12 @@ nav img {
 nav a {
 	color: #9e9e9e;
 	text-decoration: none;
+	/* display: inline-block; */
+}
+
+nav a:hover {
+	color: #000;
+	border-bottom: 1px solid #000;
 }
 
 h1 {
