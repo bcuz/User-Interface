@@ -18,6 +18,15 @@ h1, h2, h3, h4, h5 {
 
 header {
 	position: fixed;
+	width: 100%;
+	background-color: #eee;
+  padding: 10px;
+
+}
+
+nav {
+	width: 960px;
+	margin: 0 auto;
 }
 
 .container {
@@ -27,7 +36,6 @@ header {
 
 ul {
 	display: inline-block;
-	margin-top: 20px;
 }
 
 ul li {
