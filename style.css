@@ -21,14 +21,9 @@ header {
 	width: 100%;
 	background-color: #eee;
   padding: 10px;
-
 }
 
-nav {
-	width: 960px;
-	margin: 0 auto;
-}
-
+nav, 
 .container {
 	width: 960px;
 	margin: 0 auto;
