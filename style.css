@@ -71,6 +71,7 @@ h1 {
 .jumbo-text {
 	text-align: center;
 	width: 45%;
+	/* simpler to align .jumbo-text and .jumbo-img w/ float  */
 	float: left;
 }
 
