@@ -102,7 +102,7 @@ h1 {
 }
 
 .middle-img {
-	background: url(/img/mid-page-accent.jpg) no-repeat center center;
+	background: url('img/mid-page-accent.jpg') no-repeat center center;
 	background-size: cover;
 	height: 180px;
 	margin: 10px 0 20px;
